@@ -1,0 +1,8 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+---
+
+On this site I will be sharing current projects in the academic field, journalism research, and data science entrepreneurship.

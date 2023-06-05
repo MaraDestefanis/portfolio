@@ -1,0 +1,23 @@
+---
+title: "Mara Geraldina Destéfanis"
+image: images/maradestefanis4.jpg
+about: 
+  template: jolla
+  image-width: 20em
+  image-shape: round
+
+links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/maradestefanis/
+    - icon: envelope
+      text: Contact me 
+      href: mailto:maragdestefanis@gmail.com
+---
+
+Master Data Science, Degree Social Communication
+
+I am a Data Scientist and Journalist. I have an extensive background working with varied data sets since founded the startup BigDataMachine. Now Im starting research using advanced analytics to enable a deep understand of highly urgent and relevance topics: Climate Change, Sustainability, Data Economics and Development Policy.
+
+I have expanded my skill set to include topics like probability, stadistics, data analytics, machine learning and tools with Quarto, Shinny, R Language, and data visualizations using animation and interactivity. I am passionate about initiatives and conversations that drive equity research and actions towards a society focused on guarantee the balance between social-economic and enviromental factors.
+

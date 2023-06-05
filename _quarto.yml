@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Mara Destefanis"
+  favicon: "images/maradestefanis4.jpg"
+  page-footer:
+    center: |
+      [Contact Destéfanis Mara Geraldina](mailto:maragdestefanis@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/) 
+    background: "#272706"
+  navbar:
+    background: "#E7E458"
+    left:
+    - text: Home
+      href: index.qmd
+    - text: Projects
+      href: projects.qmd
+    - text: Resume
+      href: resume.qmd
+      
+    right:
+      - about.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/maradestefanis/
+      - icon: envelope
+        href: mailto:maragdestefanis@gmail.com
+format:
+  html:
+    theme:
+      light: cosmo
+      dark:  darkly
+    code-link: true
+    code-fold: true
+    code-block-bg: "white"
+    highlight-style: github
+
+editor: visual
+
